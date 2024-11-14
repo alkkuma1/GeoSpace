@@ -1,11 +1,11 @@
-# Indian Pines Hyperspectral Data Visualization and Analysis
+# Indiana Pines Hyperspectral Data Visualization and Analysis
 
-This repository contains an in-depth analysis and visualization of the Indian Pines Hyperspectral (HS) dataset, conducted as part of a Data Visualization assignment for CS503. The dataset, captured by the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS), provides spectral information across 220 bands, which are essential for applications in agriculture, environmental monitoring, and land cover classification.
+This repository contains an in-depth analysis and visualization of the Indiana Pines Hyperspectral (HS) dataset, conducted as part of a Data Visualization assignment for CS503. The dataset, captured by the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS), provides spectral information across 220 bands, which are essential for applications in agriculture, environmental monitoring, and land cover classification.
 
 
 ## Dataset Overview
 
-The Indian Pines HS dataset consists of a 145x145 pixel image with each pixel containing spectral data across 220 bands, spanning the following ranges:
+The Indiana Pines HS dataset consists of a 145x145 pixel image with each pixel containing spectral data across 220 bands, spanning the following ranges:
 
 -   **Visible (VIS)**: 0.4 - 0.7 µm
 -   **Near-Infrared (NIR)**: 0.7 - 1.3 µm
@@ -43,7 +43,7 @@ This project involves various data analysis and visualization tasks aimed at gai
 1. Clone the repository:
 ``` git clone https://https://github.com/alkkuma1/GeoSpace.git```
 ``` cd GeoSpace ```
-2. Download the `.mat` file containing the Indian Pines dataset.
+2. Download the `.mat` file containing the Indiana Pines dataset.
 3.  Open and run the notebook to execute the analysis.
 
 ## Results
